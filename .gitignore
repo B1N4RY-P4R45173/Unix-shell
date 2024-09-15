@@ -1,0 +1,7 @@
+# build output
+mysh
+*.o
+
+# editor / tool settings
+.claude/
+.vscode/
